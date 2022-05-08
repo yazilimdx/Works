@@ -1,0 +1,7 @@
+C:\Users\HP DX\source\repos\Console_Work_2\Console_Work_2\bin\Debug\Console_Work_2.exe.config
+C:\Users\HP DX\source\repos\Console_Work_2\Console_Work_2\bin\Debug\Console_Work_2.exe
+C:\Users\HP DX\source\repos\Console_Work_2\Console_Work_2\bin\Debug\Console_Work_2.pdb
+C:\Users\HP DX\source\repos\Console_Work_2\Console_Work_2\obj\Debug\Console_Work_2.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\Console_Work_2\Console_Work_2\obj\Debug\Console_Work_2.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\Console_Work_2\Console_Work_2\obj\Debug\Console_Work_2.exe
+C:\Users\HP DX\source\repos\Console_Work_2\Console_Work_2\obj\Debug\Console_Work_2.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP DX\source\repos\Console_Work_4\Console_Work_4\bin\Debug\Console_Work_4.exe.config
+C:\Users\HP DX\source\repos\Console_Work_4\Console_Work_4\bin\Debug\Console_Work_4.exe
+C:\Users\HP DX\source\repos\Console_Work_4\Console_Work_4\bin\Debug\Console_Work_4.pdb
+C:\Users\HP DX\source\repos\Console_Work_4\Console_Work_4\obj\Debug\Console_Work_4.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\Console_Work_4\Console_Work_4\obj\Debug\Console_Work_4.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\Console_Work_4\Console_Work_4\obj\Debug\Console_Work_4.exe
+C:\Users\HP DX\source\repos\Console_Work_4\Console_Work_4\obj\Debug\Console_Work_4.pdb
